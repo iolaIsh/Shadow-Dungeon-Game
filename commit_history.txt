@@ -1,0 +1,33 @@
+7845a5b | 2025-09-15 | goenkai | Added code structure and assumptions to README.md
+ad07d18 | 2025-09-15 | iolaIsh | Added final comments for classes and methods
+1930dbf | 2025-09-15 | iolaIsh | Code cleaned up, removed unused attributes
+f03da55 | 2025-09-15 | iolaIsh | all features in game working
+4abd978 | 2025-09-15 | iolaIsh | all door transitions working smoothly now
+27ed703 | 2025-09-14 | iolaIsh | debugging transition problems after game is won
+f53b657 | 2025-09-14 | iolaIsh | main game completed
+dce0b35 | 2025-09-14 | iolaIsh | battle room B is now working
+ac92330 | 2025-09-14 | iolaIsh | battleRoomB and EndRoom drafts implemented
+a754298 | 2025-09-14 | iolaIsh | Making room states permenant so player can move in and out
+194ff99 | 2025-09-14 | iolaIsh | Copying structure from battleRoomA
+6b07a70 | 2025-09-14 | iolaIsh | fixed automatic door closing and battleRoomA
+2c21c74 | 2025-09-14 | iolaIsh | Added enemy, and walls/locked doors as obstacles
+6ea7fc4 | 2025-09-13 | iolaIsh | BattleRoomA transitions working, adding more sprites for battleRoomA
+1adb488 | 2025-09-13 | iolaIsh | Working on prep room to battleRoom cleaning
+5bd7ae8 | 2025-09-12 | iolaIsh | Added Sprite class for objects
+cfb35f8 | 2025-09-11 | iolaIsh | got escape working better and added room classes
+03ed60c | 2025-09-11 | iolaIsh | Added prep room door
+c4761b7 | 2025-09-11 | iolaIsh | added room.java and preproom.java first draft
+4759374 | 2025-09-08 | iolaIsh | trying to revert back
+fb590c2 | 2025-09-08 | goenkai | Merge branch 'cherry-pick-2dcfe344' into 'main'
+572c750 | 2025-09-08 | goenkai | Room abstract class added
+e2e2a2a | 2025-09-08 | goenkai | Merge branch 'revert-2dcfe344' into 'main'
+ebacfb1 | 2025-09-08 | goenkai | Revert "Room abstract class added"
+2dcfe34 | 2025-09-06 | iolaIsh | Room abstract class added
+8066072 | 2025-09-05 | iolaIsh | Added a border for player
+0c9baf7 | 2025-09-05 | iolaIsh | Added player movement, coin and health stats
+82cae95 | 2025-09-05 | iolaIsh | Track ShadowDungeon as a regular folder (fix accidental submodule)
+cb3e972 | 2025-09-05 | iolaIsh | Background, title and move title added
+a3e97ce | 2025-09-04 | iolaIsh | fixed readme position
+b1b273a | 2025-09-04 | iolaIsh | moved readme location
+d6b14e1 | 2025-09-04 | iolaIsh | add code base
+6f07619 | 2025-09-03 | iolaIsh | add README
